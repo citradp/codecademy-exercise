@@ -1,0 +1,85 @@
+body {
+  background-color: #242f44;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  background-color: white
+}
+
+h1 {
+  font-size: 36px;
+  padding: 10px;
+  color: #8c6b48;
+  background-color: white;
+  font-weight: 400;
+  margin: 0;
+}
+
+h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+table, th, td {
+  border: 2px solid #8c6b48;
+}
+
+#headerAtas{
+  background-color: white;
+}
+
+#headerBawah{
+  height: 40px;
+  letter-spacing: 3px;
+}
+
+table {
+  text-align: center;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+td {
+  width: 300px;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  background-color: #242f44;
+  z-index: 5;
+}
+
+
+footer h3 {
+  display: inline-block;
+  font-size: 14px;
+  background-color: #242f44;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 800px;
+}
+
+
+#left {
+  width: 150px;
+} 
